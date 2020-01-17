@@ -1,0 +1,17 @@
+revenue = int ( input ( "Введите число"))
+
+cost = int ( input ( "Введите число "))
+
+if int (revenue)  < int ( cost ) :
+    print( " Убыток ")
+else:  int (revenue)  > int ( cost )
+print( "Прибыль" )
+
+profit = int  ( input (revenue - cost  ))
+
+rent = int (input (profit) / int (revenue))
+print ( rent )
+
+piople = int ( input)
+print (piople)
+profit1 = int (profit) / int (piople)
