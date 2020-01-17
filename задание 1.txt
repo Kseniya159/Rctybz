@@ -1,6 +1,0 @@
-number = int ( input ("¬ведите число"))
-print( number)
-age = 28
-print ( age)
-name = input( "¬ведите им€")
-from1  = input( (" я из "))
